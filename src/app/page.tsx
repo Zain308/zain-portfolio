@@ -68,7 +68,7 @@ export default function HomePage() {
             <div className="relative rounded-2xl overflow-hidden border border-white/[0.12] bg-[#0D1017] p-2.5 shadow-2xl group transition-all duration-500 hover:border-white/[0.25]">
               {/* Corner Sparkle Signatures */}
               <div className="absolute top-4 right-4 z-10 text-amber-400 text-sm">✦</div>
-              <div className="absolute bottom-16 left-4 z-10 text-slate-600 text-xs font-mono">01 // IDENTITY</div>
+              <div className="absolute bottom-16 left-4 z-10 text-slate-600 text-xs font-mono">01  IDENTITY</div>
 
               <div className="relative aspect-[3/4] rounded-xl overflow-hidden grayscale contrast-125 group-hover:grayscale-0 transition-all duration-700 ease-out">
                 <Image
@@ -112,7 +112,7 @@ export default function HomePage() {
             </h2>
           </div>
           <span className="hidden sm:inline-block font-mono text-xs text-slate-500">
-            EVALUATION // 01
+            EVALUATION  01
           </span>
         </div>
 
@@ -124,7 +124,7 @@ export default function HomePage() {
             >
               <div className="min-w-0">
                 <span className="text-[11px] font-mono text-slate-500 block mb-4">
-                  0{idx + 1} // STAT
+                  0{idx + 1}  STAT
                 </span>
                 <span
                   className={`font-display font-extrabold text-white block tracking-tight mb-2 truncate ${
@@ -156,7 +156,7 @@ export default function HomePage() {
           <div className="flex flex-col lg:flex-row items-start justify-between gap-12">
             <div className="flex-1">
               <div className="inline-flex items-center gap-2 text-xs font-mono text-amber-400 uppercase tracking-widest mb-4">
-                <span>01 // FLAGSHIP ARCHITECTURE</span>
+                <span>01  FLAGSHIP ARCHITECTURE</span>
                 <span>✦</span>
                 <span className="text-slate-500">ENTERPRISE CLINICAL SUPER-MARKETPLACE</span>
               </div>
@@ -236,7 +236,7 @@ export default function HomePage() {
             className="specular-card p-8 rounded-xl group transition-all"
           >
             <div className="flex items-center justify-between mb-4">
-              <span className="text-xs font-mono text-amber-400 uppercase tracking-wider">01 // CHRONICLE</span>
+              <span className="text-xs font-mono text-amber-400 uppercase tracking-wider">01  CHRONICLE</span>
               <ArrowUpRight className="w-4 h-4 text-slate-500 group-hover:text-white transition-colors" />
             </div>
             <h3 className="text-xl font-bold font-display text-white mb-2">About & Leadership</h3>
@@ -250,7 +250,7 @@ export default function HomePage() {
             className="specular-card p-8 rounded-xl group transition-all"
           >
             <div className="flex items-center justify-between mb-4">
-              <span className="text-xs font-mono text-emerald-400 uppercase tracking-wider">02 // MATRIX</span>
+              <span className="text-xs font-mono text-emerald-400 uppercase tracking-wider">02  MATRIX</span>
               <ArrowUpRight className="w-4 h-4 text-slate-500 group-hover:text-white transition-colors" />
             </div>
             <h3 className="text-xl font-bold font-display text-white mb-2">Technical Skills</h3>
@@ -264,7 +264,7 @@ export default function HomePage() {
             className="specular-card p-8 rounded-xl group transition-all"
           >
             <div className="flex items-center justify-between mb-4">
-              <span className="text-xs font-mono text-blue-400 uppercase tracking-wider">03 // DISPATCH</span>
+              <span className="text-xs font-mono text-blue-400 uppercase tracking-wider">03  DISPATCH</span>
               <ArrowUpRight className="w-4 h-4 text-slate-500 group-hover:text-white transition-colors" />
             </div>
             <h3 className="text-xl font-bold font-display text-white mb-2">Direct Contact</h3>
