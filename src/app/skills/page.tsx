@@ -68,7 +68,7 @@ export default function SkillsPage() {
       {/* 1. HEADER SECTION */}
       <div className="border-b border-white/[0.08] pb-12 mb-12">
         <span className="text-xs uppercase font-mono tracking-widest text-amber-400 block mb-3">
-          03 // THE MATRIX
+          03  THE MATRIX
         </span>
         <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold font-display text-white tracking-tight leading-[1.05] mb-6">
           Technical Skills & <br />
@@ -182,7 +182,7 @@ export default function SkillsPage() {
       <div className="border border-white/[0.1] bg-[#0D1017] p-8 sm:p-12 rounded-2xl flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6">
         <div>
           <span className="text-xs uppercase font-mono tracking-wider text-blue-400 block mb-1">
-            04 // DIRECT DISPATCH
+            04  DIRECT DISPATCH
           </span>
           <h3 className="text-2xl font-bold font-display text-white">
             Have an open engineering role?

@@ -25,7 +25,7 @@ export default function ProjectsPage() {
       {/* 1. HEADER SECTION */}
       <div className="border-b border-white/[0.08] pb-12 mb-12">
         <span className="text-xs uppercase font-mono tracking-widest text-amber-400 block mb-3">
-          02 // THE ARCHITECTURE
+          02  THE ARCHITECTURE
         </span>
         <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold font-display text-white tracking-tight leading-[1.05] mb-6">
           Engineered Systems & <br />
@@ -63,7 +63,7 @@ export default function ProjectsPage() {
             <div className="flex flex-col lg:flex-row items-start justify-between gap-8 mb-8">
               <div className="flex-1">
                 <div className="flex items-center gap-3 text-xs font-mono text-amber-400 uppercase tracking-widest mb-3">
-                  <span>0{idx + 1} // {project.category}</span>
+                  <span>0{idx + 1}  {project.category}</span>
                   <span>✦</span>
                   <span className="text-slate-500">PRODUCTION VERIFIED</span>
                 </div>
@@ -150,7 +150,7 @@ export default function ProjectsPage() {
       <div className="mt-20 border border-white/[0.1] bg-[#0D1017] p-8 sm:p-12 rounded-2xl flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6">
         <div>
           <span className="text-xs uppercase font-mono tracking-wider text-emerald-400 block mb-1">
-            03 // THE MATRIX
+            03  THE MATRIX
           </span>
           <h3 className="text-2xl font-bold font-display text-white">
             Inspect Full Technical Skills Matrix

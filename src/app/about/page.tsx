@@ -16,7 +16,7 @@ export default function AboutPage() {
       {/* 1. HEADER SECTION */}
       <div className="border-b border-white/[0.08] pb-12 mb-16">
         <span className="text-xs uppercase font-mono tracking-widest text-amber-400 block mb-3">
-          01 // THE CHRONICLE
+          01  THE CHRONICLE
         </span>
         <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold font-display text-white tracking-tight leading-[1.05] mb-6">
           Engineering Rigor & <br />
@@ -47,7 +47,7 @@ export default function AboutPage() {
           <div className="space-y-4 pt-4 border-t border-white/[0.08]">
             <div className="p-6 rounded-xl border border-white/[0.08] bg-[#0D1017]">
               <span className="text-xs font-mono text-amber-400 uppercase tracking-widest block mb-1">
-                PRINCIPLE 01 // DEPTH OVER SURFACE
+                PRINCIPLE 01  DEPTH OVER SURFACE
               </span>
               <h3 className="font-display font-semibold text-white text-base mb-1">
                 Data-First Architecture
@@ -59,7 +59,7 @@ export default function AboutPage() {
 
             <div className="p-6 rounded-xl border border-white/[0.08] bg-[#0D1017]">
               <span className="text-xs font-mono text-emerald-400 uppercase tracking-widest block mb-1">
-                PRINCIPLE 02 // ALGORITHMIC DISCIPLINE
+                PRINCIPLE 02  ALGORITHMIC DISCIPLINE
               </span>
               <h3 className="font-display font-semibold text-white text-base mb-1">
                 Asymptotic Precision
@@ -71,7 +71,7 @@ export default function AboutPage() {
 
             <div className="p-6 rounded-xl border border-white/[0.08] bg-[#0D1017]">
               <span className="text-xs font-mono text-blue-400 uppercase tracking-widest block mb-1">
-                PRINCIPLE 03 // TECHNICAL EVANGELISM
+                PRINCIPLE 03  TECHNICAL EVANGELISM
               </span>
               <h3 className="font-display font-semibold text-white text-base mb-1">
                 Servant Leadership
@@ -117,7 +117,7 @@ export default function AboutPage() {
                 </div>
                 <div className="flex justify-between">
                   <span>Graduation:</span>
-                  <span className="text-slate-200">Class of 2026</span>
+                  <span className="text-slate-200">Class of 2027</span>
                 </div>
               </div>
 

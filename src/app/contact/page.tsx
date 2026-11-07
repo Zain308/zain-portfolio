@@ -30,7 +30,7 @@ export default function ContactPage() {
       {/* 1. HEADER SECTION */}
       <div className="border-b border-white/[0.08] pb-12 mb-12">
         <span className="text-xs uppercase font-mono tracking-widest text-amber-400 block mb-3">
-          04 // DIRECT DISPATCH
+          04  DIRECT DISPATCH
         </span>
         <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold font-display text-white tracking-tight leading-[1.05] mb-6">
           Contact & <br />
@@ -203,7 +203,7 @@ export default function ContactPage() {
 
             <div className="space-y-3">
               <a
-                href="https://github.com/Zain308"
+                href="https:github.com/Zain308"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-between p-4 rounded-xl border border-white/[0.08] bg-[#07080B] hover:bg-white/[0.04] transition-colors group"
@@ -219,7 +219,7 @@ export default function ContactPage() {
               </a>
 
               <a
-                href="https://linkedin.com/in/zain308"
+                href="https:linkedin.com/in/zain308"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-between p-4 rounded-xl border border-white/[0.08] bg-[#07080B] hover:bg-white/[0.04] transition-colors group"
