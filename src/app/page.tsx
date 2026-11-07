@@ -20,7 +20,7 @@ export default function HomePage() {
               </span>
               <span>Available for Software Engineering Roles</span>
               <span className="text-emerald-500/60">•</span>
-              <span className="text-slate-300">Devsinc Ambassador</span>
+              <span className="text-slate-300">Devsinc Campus Ambassador</span>
             </div>
 
             {/* Monumental Editorial Headline */}
